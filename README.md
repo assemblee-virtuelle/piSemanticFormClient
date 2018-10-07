@@ -1,4 +1,4 @@
-# piSolid
+# pySolid
 
 Solid server built with Python and RDFLib.
 
