@@ -11,7 +11,7 @@ cd /home/{user}/
 git clone http://github.com/assemblee-virtuelle/pySolid
 ```
 
-### Data persistance with Berkeley DB
+### Data persistance with Berkeley DB
 
 Download Berkeley zip from this repository : db-5.3.28.tar.gz
 ```
