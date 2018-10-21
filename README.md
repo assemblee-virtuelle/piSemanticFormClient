@@ -7,7 +7,7 @@ Following documentation has been tested on Ubuntu 18.
 ## Install pre requisites
 
 ```
-cd /home/{user}/
+cd ~/
 git clone http://github.com/assemblee-virtuelle/pySolid
 ```
 
